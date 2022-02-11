@@ -1,4 +1,4 @@
-baseurl = "https://www.doudmine.com"
+baseurl = "https://hugoblog2.netlify.app"
 metaDataFormat = "yaml"
 title = "Doudmine"
 theme = "blist"
